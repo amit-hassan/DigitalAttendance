@@ -1,0 +1,62 @@
+body
+{
+	font-family:Garamond;
+	background-image: url("convocation-7.jpg");
+}
+.phpcoding
+{
+	width:auto;
+	margin:0 auto;
+	background: #CEE6B7;
+	color: #000000;
+}
+.headeroption,.footeroption
+{
+	color: #FFFFFF;
+	background: #5C79F9;
+	text-align: center;
+	padding: 20px;
+}
+.maincontent
+{
+	width: auto;
+	min-height: 400px;
+	padding: 20px 30px; 
+}
+
+.logout 
+{
+  box-shadow:0 0 0;
+  color:#FFFFFF;
+  margin:-18px 77px -10px 1129px;
+  padding:20px;
+  width:53px;
+}
+.logout1,.back
+{
+  box-shadow:0 0 0;
+  color:#FFFFFF;
+  margin:-18px 77px -10px 1129px;
+  padding:20px;
+  width:53px;
+}
+.headeroption h2,.footeroption h3
+{
+	margin: 0;
+	font-family: Comic Sans MS;
+}
+
+.course-dropdown{padding: 20px;text-align: center;}
+.insert{margin-left:800px;
+  margin-top:20px;
+  padding:12px;
+  text-align:center;
+}
+.selected_course
+{
+  margin-left:531px;
+  margin-top:20px;
+  padding:12px;
+  
+
+}

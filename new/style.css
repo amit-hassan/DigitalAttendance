@@ -1,0 +1,22 @@
+/*CSS File for Sign-In webpage*/
+#background-image {
+  background-image: url('imageedit_2_8599391572.jpg');
+  background-size: cover;
+}
+#Sign-In {
+  background:#405776;
+  border:0 solid #A1A1A1;
+  border-radius:20px;
+  box-shadow:7px 7px 6px;
+  margin:156px 180px 140px 405px;
+  padding:9px 35px;
+  width:400px;
+}
+#button{
+	border-radius: 10px;
+	width: 100px;
+	height: 40px;
+	background: rgb(46, 204, 113);
+	font-weight: bold;
+	font-size: 20px;
+}

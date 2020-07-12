@@ -1,0 +1,280 @@
+17/12/04 11:40:33 ** --- MESSAGE BEGIN ---
+17/12/04 11:40:33 ** To: amithassan.bd@gmail.com
+17/12/04 11:40:33 ** Subject: Test
+17/12/04 11:40:33 ** X-PHP-Originating-Script: 0:mail.php
+17/12/04 11:40:33 ** From: nubauthority@gmail.com
+17/12/04 11:40:33 ** 
+17/12/04 11:40:33 ** Hello there.
+17/12/04 11:40:33 ** --- MESSAGE END ---
+17/12/04 11:40:33 ** Connecting to smtp.gmail.com:465
+17/12/04 11:40:50 ** Connected.
+17/12/04 11:40:51 << 220 smtp.gmail.com ESMTP q132sm5542271iod.26 - gsmtp<EOL>
+17/12/04 11:40:51 >> EHLO localhost<EOL>
+17/12/04 11:40:53 << 250-smtp.gmail.com at your service, [182.160.97.196]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+17/12/04 11:40:53 ** Authenticating as nubauthority@gmail.com
+17/12/04 11:40:53 >> AUTH LOGIN<EOL>
+17/12/04 11:41:05 << 334 VXNlcm5hbWU6<EOL>
+17/12/04 11:41:05 >> bnViYXV0aG9yaXR5QGdtYWlsLmNvbQ==<EOL>
+17/12/04 11:41:12 << 334 UGFzc3dvcmQ6<EOL>
+17/12/04 11:41:12 >> cGFzc2lvbmF0ZWxvdmVyNDIw<EOL>
+17/12/04 11:41:14 << 235 2.7.0 Accepted<EOL>
+17/12/04 11:41:14 >> MAIL FROM: <nubauthority@gmail.com><EOL>
+17/12/04 11:41:19 << 250 2.1.0 OK q132sm5542271iod.26 - gsmtp<EOL>
+17/12/04 11:41:19 >> RCPT TO: <amithassan.bd@gmail.com><EOL>
+17/12/04 11:41:28 << 250 2.1.5 OK q132sm5542271iod.26 - gsmtp<EOL>
+17/12/04 11:41:28 >> DATA<EOL>
+17/12/04 11:41:35 << 354  Go ahead q132sm5542271iod.26 - gsmtp<EOL>
+17/12/04 11:41:35 >> Date: Mon, 4 Dec 2017 11:41:35 +0600<EOL>
+17/12/04 11:41:35 >> To: amithassan.bd@gmail.com<EOL>
+17/12/04 11:41:35 >> Subject: Test<EOL>
+17/12/04 11:41:35 >> X-PHP-Originating-Script: 0:mail.php<EOL>
+17/12/04 11:41:35 >> From: nubauthority@gmail.com<EOL>
+17/12/04 11:41:35 >> <EOL>
+17/12/04 11:41:35 >> Hello there.<EOL>
+17/12/04 11:41:35 >> .<EOL>
+17/12/04 11:41:48 << 250 2.0.0 OK 1512366105 q132sm5542271iod.26 - gsmtp<EOL>
+17/12/04 11:41:48 >> QUIT<EOL>
+17/12/04 11:41:54 << 221 2.0.0 closing connection q132sm5542271iod.26 - gsmtp<EOL>
+17/12/04 11:41:54 ** Disconnected.
+17/12/04 11:41:54 ** Disconnected.
+17/12/04 11:41:54 ** Disconnected.
+17/12/04 12:37:11 ** --- MESSAGE BEGIN ---
+17/12/04 12:37:11 ** To: shumyasarkerbd@gmail.com
+17/12/04 12:37:11 ** Subject: Absent Report
+17/12/04 12:37:11 ** X-PHP-Originating-Script: 0:report.php
+17/12/04 12:37:11 ** From: nubauthority@gmail.com
+17/12/04 12:37:11 ** 
+17/12/04 12:37:11 ** Dear Sir,Your son is absent Today Class.
+17/12/04 12:37:11 ** --- MESSAGE END ---
+17/12/04 12:37:11 ** Connecting to smtp.gmail.com:465
+17/12/04 12:37:18 ** Connected.
+17/12/04 12:37:19 << 220 smtp.gmail.com ESMTP 23sm5631074iot.58 - gsmtp<EOL>
+17/12/04 12:37:19 >> EHLO localhost<EOL>
+17/12/04 12:37:19 << 250-smtp.gmail.com at your service, [182.160.97.196]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+17/12/04 12:37:19 ** Authenticating as nubauthority@gmail.com
+17/12/04 12:37:19 >> AUTH LOGIN<EOL>
+17/12/04 12:37:20 << 334 VXNlcm5hbWU6<EOL>
+17/12/04 12:37:20 >> bnViYXV0aG9yaXR5QGdtYWlsLmNvbQ==<EOL>
+17/12/04 12:37:20 << 334 UGFzc3dvcmQ6<EOL>
+17/12/04 12:37:20 >> cGFzc2lvbmF0ZWxvdmVyNDIw<EOL>
+17/12/04 12:37:22 << 235 2.7.0 Accepted<EOL>
+17/12/04 12:37:22 >> MAIL FROM: <nubauthority@gmail.com><EOL>
+17/12/04 12:37:23 << 250 2.1.0 OK 23sm5631074iot.58 - gsmtp<EOL>
+17/12/04 12:37:23 >> RCPT TO: <shumyasarkerbd@gmail.com><EOL>
+17/12/04 12:37:23 << 250 2.1.5 OK 23sm5631074iot.58 - gsmtp<EOL>
+17/12/04 12:37:23 >> DATA<EOL>
+17/12/04 12:37:24 << 354  Go ahead 23sm5631074iot.58 - gsmtp<EOL>
+17/12/04 12:37:24 >> Date: Mon, 4 Dec 2017 12:37:24 +0600<EOL>
+17/12/04 12:37:24 >> To: shumyasarkerbd@gmail.com<EOL>
+17/12/04 12:37:24 >> Subject: Absent Report<EOL>
+17/12/04 12:37:24 >> X-PHP-Originating-Script: 0:report.php<EOL>
+17/12/04 12:37:24 >> From: nubauthority@gmail.com<EOL>
+17/12/04 12:37:24 >> <EOL>
+17/12/04 12:37:24 >> Dear Sir,Your son is absent Today Class.<EOL>
+17/12/04 12:37:24 >> .<EOL>
+17/12/04 12:37:25 << 250 2.0.0 OK 1512369447 23sm5631074iot.58 - gsmtp<EOL>
+17/12/04 12:37:25 >> QUIT<EOL>
+17/12/04 12:37:25 << 221 2.0.0 closing connection 23sm5631074iot.58 - gsmtp<EOL>
+17/12/04 12:37:25 ** Disconnected.
+17/12/04 12:37:25 ** Disconnected.
+17/12/04 12:37:25 ** Disconnected.
+17/12/04 12:37:26 ** --- MESSAGE BEGIN ---
+17/12/04 12:37:26 ** To: mominulhaquestd@gmail.com
+17/12/04 12:37:26 ** Subject: Absent Report
+17/12/04 12:37:26 ** X-PHP-Originating-Script: 0:report.php
+17/12/04 12:37:26 ** From: nubauthority@gmail.com
+17/12/04 12:37:26 ** 
+17/12/04 12:37:26 ** Dear Sir,Your son is absent Today Class.
+17/12/04 12:37:26 ** --- MESSAGE END ---
+17/12/04 12:37:26 ** Connecting to smtp.gmail.com:465
+17/12/04 12:37:26 ** Connected.
+17/12/04 12:37:27 << 220 smtp.gmail.com ESMTP j20sm5723706ioo.37 - gsmtp<EOL>
+17/12/04 12:37:27 >> EHLO localhost<EOL>
+17/12/04 12:37:27 << 250-smtp.gmail.com at your service, [182.160.97.196]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+17/12/04 12:37:27 ** Authenticating as nubauthority@gmail.com
+17/12/04 12:37:27 >> AUTH LOGIN<EOL>
+17/12/04 12:37:27 << 334 VXNlcm5hbWU6<EOL>
+17/12/04 12:37:27 >> bnViYXV0aG9yaXR5QGdtYWlsLmNvbQ==<EOL>
+17/12/04 12:37:27 << 334 UGFzc3dvcmQ6<EOL>
+17/12/04 12:37:27 >> cGFzc2lvbmF0ZWxvdmVyNDIw<EOL>
+17/12/04 12:37:28 << 235 2.7.0 Accepted<EOL>
+17/12/04 12:37:28 >> MAIL FROM: <nubauthority@gmail.com><EOL>
+17/12/04 12:37:28 << 250 2.1.0 OK j20sm5723706ioo.37 - gsmtp<EOL>
+17/12/04 12:37:28 >> RCPT TO: <mominulhaquestd@gmail.com><EOL>
+17/12/04 12:37:28 << 250 2.1.5 OK j20sm5723706ioo.37 - gsmtp<EOL>
+17/12/04 12:37:28 >> DATA<EOL>
+17/12/04 12:37:29 << 354  Go ahead j20sm5723706ioo.37 - gsmtp<EOL>
+17/12/04 12:37:29 >> Date: Mon, 4 Dec 2017 12:37:29 +0600<EOL>
+17/12/04 12:37:29 >> To: mominulhaquestd@gmail.com<EOL>
+17/12/04 12:37:29 >> Subject: Absent Report<EOL>
+17/12/04 12:37:29 >> X-PHP-Originating-Script: 0:report.php<EOL>
+17/12/04 12:37:29 >> From: nubauthority@gmail.com<EOL>
+17/12/04 12:37:29 >> <EOL>
+17/12/04 12:37:29 >> Dear Sir,Your son is absent Today Class.<EOL>
+17/12/04 12:37:29 >> .<EOL>
+17/12/04 12:37:30 << 250 2.0.0 OK 1512369451 j20sm5723706ioo.37 - gsmtp<EOL>
+17/12/04 12:37:30 >> QUIT<EOL>
+17/12/04 12:37:30 << 221 2.0.0 closing connection j20sm5723706ioo.37 - gsmtp<EOL>
+17/12/04 12:37:30 ** Disconnected.
+17/12/04 12:37:30 ** Disconnected.
+17/12/04 12:37:30 ** Disconnected.
+17/12/04 12:37:30 ** --- MESSAGE BEGIN ---
+17/12/04 12:37:30 ** To: railerussow.dk@gmail.com
+17/12/04 12:37:30 ** Subject: Absent Report
+17/12/04 12:37:30 ** X-PHP-Originating-Script: 0:report.php
+17/12/04 12:37:30 ** From: nubauthority@gmail.com
+17/12/04 12:37:30 ** 
+17/12/04 12:37:30 ** Dear Sir,Your son is absent Today Class.
+17/12/04 12:37:30 ** --- MESSAGE END ---
+17/12/04 12:37:30 ** Connecting to smtp.gmail.com:465
+17/12/04 12:37:31 ** Connected.
+17/12/04 12:37:32 << 220 smtp.gmail.com ESMTP p198sm3507501itp.11 - gsmtp<EOL>
+17/12/04 12:37:32 >> EHLO localhost<EOL>
+17/12/04 12:37:32 << 250-smtp.gmail.com at your service, [182.160.97.196]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+17/12/04 12:37:32 ** Authenticating as nubauthority@gmail.com
+17/12/04 12:37:32 >> AUTH LOGIN<EOL>
+17/12/04 12:37:32 << 334 VXNlcm5hbWU6<EOL>
+17/12/04 12:37:32 >> bnViYXV0aG9yaXR5QGdtYWlsLmNvbQ==<EOL>
+17/12/04 12:37:32 << 334 UGFzc3dvcmQ6<EOL>
+17/12/04 12:37:32 >> cGFzc2lvbmF0ZWxvdmVyNDIw<EOL>
+17/12/04 12:37:33 << 235 2.7.0 Accepted<EOL>
+17/12/04 12:37:33 >> MAIL FROM: <nubauthority@gmail.com><EOL>
+17/12/04 12:37:33 << 250 2.1.0 OK p198sm3507501itp.11 - gsmtp<EOL>
+17/12/04 12:37:33 >> RCPT TO: <railerussow.dk@gmail.com><EOL>
+17/12/04 12:37:33 << 250 2.1.5 OK p198sm3507501itp.11 - gsmtp<EOL>
+17/12/04 12:37:33 >> DATA<EOL>
+17/12/04 12:37:34 << 354  Go ahead p198sm3507501itp.11 - gsmtp<EOL>
+17/12/04 12:37:34 >> Date: Mon, 4 Dec 2017 12:37:34 +0600<EOL>
+17/12/04 12:37:34 >> To: railerussow.dk@gmail.com<EOL>
+17/12/04 12:37:34 >> Subject: Absent Report<EOL>
+17/12/04 12:37:34 >> X-PHP-Originating-Script: 0:report.php<EOL>
+17/12/04 12:37:34 >> From: nubauthority@gmail.com<EOL>
+17/12/04 12:37:34 >> <EOL>
+17/12/04 12:37:34 >> Dear Sir,Your son is absent Today Class.<EOL>
+17/12/04 12:37:34 >> .<EOL>
+17/12/04 12:37:35 << 250 2.0.0 OK 1512369456 p198sm3507501itp.11 - gsmtp<EOL>
+17/12/04 12:37:35 >> QUIT<EOL>
+17/12/04 12:37:35 << 221 2.0.0 closing connection p198sm3507501itp.11 - gsmtp<EOL>
+17/12/04 12:37:35 ** Disconnected.
+17/12/04 12:37:35 ** Disconnected.
+17/12/04 12:37:35 ** Disconnected.
+17/12/04 12:48:34 ** --- MESSAGE BEGIN ---
+17/12/04 12:48:34 ** To: taijulislamusa@gmail.com
+17/12/04 12:48:34 ** Subject: Absent Report
+17/12/04 12:48:34 ** X-PHP-Originating-Script: 0:report.php
+17/12/04 12:48:34 ** From: nubauthority@gmail.com
+17/12/04 12:48:34 ** 
+17/12/04 12:48:34 ** Dear Sir,Your son is absent Today Class.
+17/12/04 12:48:34 ** --- MESSAGE END ---
+17/12/04 12:48:35 ** Connecting to smtp.gmail.com:465
+17/12/04 12:48:39 ** Connected.
+17/12/04 12:48:40 << 220 smtp.gmail.com ESMTP f134sm94618itb.35 - gsmtp<EOL>
+17/12/04 12:48:40 >> EHLO localhost<EOL>
+17/12/04 12:48:40 << 250-smtp.gmail.com at your service, [182.160.97.196]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+17/12/04 12:48:40 ** Authenticating as nubauthority@gmail.com
+17/12/04 12:48:40 >> AUTH LOGIN<EOL>
+17/12/04 12:48:41 << 334 VXNlcm5hbWU6<EOL>
+17/12/04 12:48:41 >> bnViYXV0aG9yaXR5QGdtYWlsLmNvbQ==<EOL>
+17/12/04 12:48:41 << 334 UGFzc3dvcmQ6<EOL>
+17/12/04 12:48:41 >> cGFzc2lvbmF0ZWxvdmVyNDIw<EOL>
+17/12/04 12:48:42 << 235 2.7.0 Accepted<EOL>
+17/12/04 12:48:42 >> MAIL FROM: <nubauthority@gmail.com><EOL>
+17/12/04 12:48:45 << 250 2.1.0 OK f134sm94618itb.35 - gsmtp<EOL>
+17/12/04 12:48:45 >> RCPT TO: <taijulislamusa@gmail.com><EOL>
+17/12/04 12:48:45 << 250 2.1.5 OK f134sm94618itb.35 - gsmtp<EOL>
+17/12/04 12:48:45 >> DATA<EOL>
+17/12/04 12:48:46 << 354  Go ahead f134sm94618itb.35 - gsmtp<EOL>
+17/12/04 12:48:46 >> Date: Mon, 4 Dec 2017 12:48:46 +0600<EOL>
+17/12/04 12:48:46 >> To: taijulislamusa@gmail.com<EOL>
+17/12/04 12:48:46 >> Subject: Absent Report<EOL>
+17/12/04 12:48:46 >> X-PHP-Originating-Script: 0:report.php<EOL>
+17/12/04 12:48:46 >> From: nubauthority@gmail.com<EOL>
+17/12/04 12:48:46 >> <EOL>
+17/12/04 12:48:46 >> Dear Sir,Your son is absent Today Class.<EOL>
+17/12/04 12:48:46 >> .<EOL>
+17/12/04 12:48:47 << 250 2.0.0 OK 1512370128 f134sm94618itb.35 - gsmtp<EOL>
+17/12/04 12:48:47 >> QUIT<EOL>
+17/12/04 12:48:47 << 221 2.0.0 closing connection f134sm94618itb.35 - gsmtp<EOL>
+17/12/04 12:48:47 ** Disconnected.
+17/12/04 12:48:47 ** Disconnected.
+17/12/04 12:48:47 ** Disconnected.
+17/12/04 12:48:47 ** --- MESSAGE BEGIN ---
+17/12/04 12:48:47 ** To: ashishnehrastd@gmail.com
+17/12/04 12:48:47 ** Subject: Absent Report
+17/12/04 12:48:47 ** X-PHP-Originating-Script: 0:report.php
+17/12/04 12:48:47 ** From: nubauthority@gmail.com
+17/12/04 12:48:47 ** 
+17/12/04 12:48:47 ** Dear Sir,Your son is absent Today Class.
+17/12/04 12:48:47 ** --- MESSAGE END ---
+17/12/04 12:48:48 ** Connecting to smtp.gmail.com:465
+17/12/04 12:48:49 ** Connected.
+17/12/04 12:48:53 << 220 smtp.gmail.com ESMTP w68sm5979741iow.18 - gsmtp<EOL>
+17/12/04 12:48:53 >> EHLO localhost<EOL>
+17/12/04 12:48:55 << 250-smtp.gmail.com at your service, [182.160.97.196]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+17/12/04 12:48:55 ** Authenticating as nubauthority@gmail.com
+17/12/04 12:48:55 >> AUTH LOGIN<EOL>
+17/12/04 12:48:55 << 334 VXNlcm5hbWU6<EOL>
+17/12/04 12:48:55 >> bnViYXV0aG9yaXR5QGdtYWlsLmNvbQ==<EOL>
+17/12/04 12:48:58 << 334 UGFzc3dvcmQ6<EOL>
+17/12/04 12:48:58 >> cGFzc2lvbmF0ZWxvdmVyNDIw<EOL>
+17/12/04 12:48:59 << 235 2.7.0 Accepted<EOL>
+17/12/04 12:48:59 >> MAIL FROM: <nubauthority@gmail.com><EOL>
+17/12/04 12:49:01 << 250 2.1.0 OK w68sm5979741iow.18 - gsmtp<EOL>
+17/12/04 12:49:01 >> RCPT TO: <ashishnehrastd@gmail.com><EOL>
+17/12/04 12:49:01 << 250 2.1.5 OK w68sm5979741iow.18 - gsmtp<EOL>
+17/12/04 12:49:01 >> DATA<EOL>
+17/12/04 12:49:04 << 354  Go ahead w68sm5979741iow.18 - gsmtp<EOL>
+17/12/04 12:49:04 >> Date: Mon, 4 Dec 2017 12:49:04 +0600<EOL>
+17/12/04 12:49:04 >> To: ashishnehrastd@gmail.com<EOL>
+17/12/04 12:49:04 >> Subject: Absent Report<EOL>
+17/12/04 12:49:04 >> X-PHP-Originating-Script: 0:report.php<EOL>
+17/12/04 12:49:04 >> From: nubauthority@gmail.com<EOL>
+17/12/04 12:49:04 >> <EOL>
+17/12/04 12:49:04 >> Dear Sir,Your son is absent Today Class.<EOL>
+17/12/04 12:49:04 >> .<EOL>
+17/12/04 12:49:08 << 250 2.0.0 OK 1512370149 w68sm5979741iow.18 - gsmtp<EOL>
+17/12/04 12:49:08 >> QUIT<EOL>
+17/12/04 12:49:08 << 221 2.0.0 closing connection w68sm5979741iow.18 - gsmtp<EOL>
+17/12/04 12:49:08 ** Disconnecting from smtp.gmail.com:465
+17/12/04 12:49:08 ** Disconnected.
+17/12/04 12:49:08 ** Disconnected.
+17/12/04 16:30:05 ** --- MESSAGE BEGIN ---
+17/12/04 16:30:05 ** To: railerussow.dk@gmail.com
+17/12/04 16:30:05 ** Subject: Absent Report
+17/12/04 16:30:05 ** X-PHP-Originating-Script: 0:report.php
+17/12/04 16:30:05 ** From: nubauthority@gmail.com
+17/12/04 16:30:05 ** 
+17/12/04 16:30:05 ** Dear Sir,Your son is absent Today Class.
+17/12/04 16:30:05 ** --- MESSAGE END ---
+17/12/04 16:30:06 ** Connecting to smtp.gmail.com:465
+17/12/04 16:30:11 ** Connected.
+17/12/04 16:30:11 << 220 smtp.gmail.com ESMTP q9sm26742016pfl.116 - gsmtp<EOL>
+17/12/04 16:30:11 >> EHLO localhost<EOL>
+17/12/04 16:30:12 << 250-smtp.gmail.com at your service, [103.204.81.135]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+17/12/04 16:30:12 ** Authenticating as nubauthority@gmail.com
+17/12/04 16:30:12 >> AUTH LOGIN<EOL>
+17/12/04 16:30:12 << 334 VXNlcm5hbWU6<EOL>
+17/12/04 16:30:12 >> bnViYXV0aG9yaXR5QGdtYWlsLmNvbQ==<EOL>
+17/12/04 16:30:12 << 334 UGFzc3dvcmQ6<EOL>
+17/12/04 16:30:12 >> cGFzc2lvbmF0ZWxvdmVyNDIw<EOL>
+17/12/04 16:30:13 << 235 2.7.0 Accepted<EOL>
+17/12/04 16:30:13 >> MAIL FROM: <nubauthority@gmail.com><EOL>
+17/12/04 16:30:13 << 250 2.1.0 OK q9sm26742016pfl.116 - gsmtp<EOL>
+17/12/04 16:30:13 >> RCPT TO: <railerussow.dk@gmail.com><EOL>
+17/12/04 16:30:13 << 250 2.1.5 OK q9sm26742016pfl.116 - gsmtp<EOL>
+17/12/04 16:30:13 >> DATA<EOL>
+17/12/04 16:30:14 << 354  Go ahead q9sm26742016pfl.116 - gsmtp<EOL>
+17/12/04 16:30:14 >> Date: Mon, 4 Dec 2017 16:30:14 +0600<EOL>
+17/12/04 16:30:14 >> To: railerussow.dk@gmail.com<EOL>
+17/12/04 16:30:14 >> Subject: Absent Report<EOL>
+17/12/04 16:30:14 >> X-PHP-Originating-Script: 0:report.php<EOL>
+17/12/04 16:30:14 >> From: nubauthority@gmail.com<EOL>
+17/12/04 16:30:14 >> <EOL>
+17/12/04 16:30:14 >> Dear Sir,Your son is absent Today Class.<EOL>
+17/12/04 16:30:14 >> .<EOL>
+17/12/04 16:30:15 << 250 2.0.0 OK 1512383417 q9sm26742016pfl.116 - gsmtp<EOL>
+17/12/04 16:30:15 >> QUIT<EOL>
+17/12/04 16:30:16 << 221 2.0.0 closing connection q9sm26742016pfl.116 - gsmtp<EOL>
+17/12/04 16:30:16 ** Disconnecting from smtp.gmail.com:465
+17/12/04 16:30:16 ** Disconnected.
+17/12/04 16:30:16 ** Disconnected.

@@ -1,0 +1,1 @@
+select e_mail from student s,course_student cs where cs.student_id = s.student_id and cs.course_info = 'Flick A'  and s.student_id not in(select student_id from attendance_storage where date='17-12-04' and course_info = 'Flick A' and status = 1);

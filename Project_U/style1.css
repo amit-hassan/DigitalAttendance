@@ -1,0 +1,49 @@
+body
+{
+	font-family:Garamond;
+	background-image: url("bg.jpg");
+}
+.phpcoding
+{
+	width:auto;
+	margin:0 auto;
+	background: #CEE6B7;
+	color: #000000;
+}
+.headeroption,.footeroption
+{
+	color: #FFFFFF;
+	background: #1b62d3;
+	text-align: center;
+	padding: 20px;
+}
+.maincontent
+{
+	min-height: 400px;
+	padding: 20px 30px; 
+}
+
+.logout 
+{
+  box-shadow:0 0 0;
+  color:#FFFFFF;
+  margin:-18px 77px -10px 1129px;
+  padding:20px;
+  width:53px;
+}
+.logout1,.back
+{
+  box-shadow:0 0 0;
+  color:#FFFFFF;
+  margin:-18px 77px -10px 1129px;
+  padding:20px;
+  width:53px;
+}
+.headeroption h2,.footeroption h3
+{
+	margin: 0;
+	font-family: Comic Sans MS;
+}
+
+.course-dropdown{padding: 20px;text-align: center;}
+	
